@@ -1,0 +1,9 @@
+.idea/*
+__pycache__/*
+*summary*
+.ipynb_checkpoints/*
+*data*
+*logs*
+*results*
+*.pyc
+
